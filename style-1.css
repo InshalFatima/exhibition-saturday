@@ -1,0 +1,41 @@
+h1,h2,h3{
+    text-align: center;
+    justify-content: center;
+}
+p1{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    margin: 0px;
+}
+p2{
+    text-align: center;
+    position: relative;
+    top: 250px;
+    margin: 0px;
+}
+body{
+    background-color: aquamarine;
+}
+img{
+    position: relative;
+    left:550px;
+}
+container{
+    text-align: center;
+    justify-content: center;
+}
+h3{
+    position: absolute;
+    top: 800px;
+    left: 530px;
+}
+.sadaf{
+position: relative;
+top: 150px; 
+left: 500px;
+}
+
+
+

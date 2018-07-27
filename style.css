@@ -1,0 +1,23 @@
+/* img{
+    height: 50px;
+    width: 50px;
+
+}
+footer{
+    color: aliceblue;
+    background-color: aliceblue;
+} */
+img{
+    margin: 100px;
+}
+button{
+    margin: center;
+}
+div{
+    margin:fixed;
+}
+.container{
+    margin: 0px;
+    align-items:  center;
+    text-align: center;
+}
